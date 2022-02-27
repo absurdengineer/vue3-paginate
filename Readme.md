@@ -72,7 +72,9 @@ However, It won't render all pages from 1 to 50 as it has additional pageCount p
 
 ## Preview
 
-![Pagination Demo](./src/assets/Pagination.png?raw=true "Title")
+![Pagination Demo](./src/assets/Pagination1.png?raw=true "Title")
+![Pagination Demo](./src/assets/Pagination2.png?raw=true "Title")
+![Pagination Demo](./src/assets/Pagination3.png?raw=true "Title")
 
 ## Props
 
