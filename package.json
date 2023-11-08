@@ -1,6 +1,6 @@
 {
   "name": "vue3-paginate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/vue3-paginate.ssr.js",
   "browser": "dist/vue3-paginate.esm.js",
@@ -56,5 +56,5 @@
     "paginate",
     "pagination"
   ],
-  "repository": "https://github.com/webformulator/vue3-paginate"
+  "repository": "https://github.com/absurdengineer/vue3-paginate"
 }

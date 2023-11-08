@@ -122,4 +122,4 @@ Before defining props, Let me list the HTML Structure for Pagination Component.
 
 ## Creator
 
-This component has been created by [Md Dilshad Alam](https://github.com/webformulator)
+[Mohammad Dilshad Alam](https://github.com/absurdengineer) created and maintains this component.
